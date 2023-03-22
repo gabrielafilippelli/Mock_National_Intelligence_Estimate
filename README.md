@@ -15,8 +15,3 @@ With these questions I had, I downloaded datasets from Harvard Dataverse and the
 
 ## Results
 Illustrated through data visualizations and a narrative that Argentina is not a powerful country, and its future is not a powerful one in comparison to other countries in South America.
-
-## Visualizations
-This bar chart represents the mean of Argentina's imports from other Low-and Middle-Income Economies in Latin America from 2015 until 2020
-<img src=(https://github.com/gabrielafilippelli/Mock_National_Intelligence_Estimate/blob/main/images/Imports_LatinAm.jpg>
-</p>
