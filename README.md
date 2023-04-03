@@ -1,4 +1,4 @@
-<h1 align="center">Mock National Intelligence Estimate: Data Analysis Project </h1>
+# National Intelligence Estimate: Data Analysis Project
 
 <p align="center">
   <img src= "https://github.com/gabrielafilippelli/Mock_National_Intelligence_Estimate/blob/main/images/Mind_Map.jpg">
