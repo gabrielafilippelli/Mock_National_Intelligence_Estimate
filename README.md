@@ -1,4 +1,4 @@
-# National Intelligence Estimate: Data Analysis Project
+# Mock National Intelligence Estimate: Data Analysis Project
 
 <p align="center">
   <img src= "https://github.com/gabrielafilippelli/Mock_National_Intelligence_Estimate/blob/main/images/Mind_Map.jpg">
